@@ -68,8 +68,12 @@ DELETE /student/:id Delete a student by ID
 📦 Sample Request (JSON)
 {
 "name": "Jagat Joshi",
-"age": 12,
-"class": "Six"
+"age": 21,
+"class": "B.Sc. CSIT 8th Semester",
+"address": "Dhangadhi, Kailali",
+"phone": "9800000000",
+"email": "jagat@example.com",
+"guardianName": "Basant Joshi"
 }
 
 🔧 Tech Stack
